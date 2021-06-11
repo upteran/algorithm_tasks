@@ -1,0 +1,14 @@
+{
+  "name": "file_reader",
+  "version": "0.0.1",
+  "description": "yandex_context_task",
+  "main": "common/sprint_1/playlist_sort.js",
+  "scripts": {
+    "start": "node common/sprint_4/prefix_hash.js"
+  },
+  "author": "au_tereshkin",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}

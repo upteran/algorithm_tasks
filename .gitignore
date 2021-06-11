@@ -1,0 +1,9 @@
+/common/*
+input.txt
+output.txt
+Sprint_1_A_T.zip
+task_descriptions
+.idea
+package-lock.json
+/node_modules
+.DS_Store
