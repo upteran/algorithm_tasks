@@ -1,6 +1,6 @@
 ## Algorithm and data structure
 
-### different popular algorithm and data structure realizations used by javascript
+### popular algorithm and data structure realization using javascript
 
 - data_structures
     - deque.js (deque data structure realization)
